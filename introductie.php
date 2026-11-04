@@ -14,6 +14,14 @@
 </head>
 <body>
 <?php include 'includes/header.php';?>
+<section class="container">
+  <div class="sides"></div>
+  <div></div>
+  <div class="sides"></div>
+  <div class="sides"></div>
+  <div></div>
+  <div class="sides"></div>
+</section>
 <?php include 'includes/footer.php';?>
 </body>
 </html>
