@@ -27,15 +27,21 @@
   background-color: var(--body);
   font-size: 30px;
   text-align: center;
-  height: 40vw;
+  height: 30vw;
   color: var(--textbody);
 }
-.header-main{
-    height: 10vw;
+.header-main, .footer-main{
     width: 100%;
     background-color: var(--headerBG);
     display: flex;
+}
+.header-main{
     border-bottom: solid var(--sides) 20px;
+    height: 10vw;
+}
+.footer-main{
+    border-top: solid var(--sides) 20px;
+        height: 30vw;
 }
 .sides{
     background-color: var(--sides) !important;
@@ -52,4 +58,20 @@
     background-color: var(--headerBG);
     justify-items: center;
     align-items: center;
+}
+#lightdark{
+    border: solid var(--textbanner) 4px;
+    margin-top: 30%;
+}
+#header-nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3vw;
+}
+#header-nav > a{
+    text-decoration: none;
+    color: var(--textbanner);
+    border-top: solid var(--textbanner) 4px;
+    border-bottom: solid var(--textbanner) 4px;
 }
