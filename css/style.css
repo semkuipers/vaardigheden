@@ -80,3 +80,6 @@
     border-top: solid var(--textbanner) 4px;
     border-bottom: solid var(--textbanner) 4px;
 }
+.footer-txt{
+    color: var(--textbody);
+}
