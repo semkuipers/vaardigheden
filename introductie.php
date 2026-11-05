@@ -16,7 +16,7 @@
 <?php include 'includes/header.php';?>
 <section class="container">
   <div class="sides"><h3>sidebar-1</h3></div>
-  <div><h1>haihai de meeste informatie over mij staat in mijn cv, daarom houd ik het kort.<br><br> Mijn naam is Sem Kuipers, ik zit nu in mijn tweede jaar software ontwikkeling. <br><br> Ik ben opzoek naar een stageplek waar ik potentieel in mee kan groeien. </div>
+  <div><h1>haihai de meeste informatie over mij staat in mijn cv, daarom houd ik het kort.<br><br> Mijn naam is Sem Kuipers, ik zit nu in mijn tweede jaar software ontwikkeling. <br><br> Ik ben opzoek naar een stageplek waar ik potentieel in mee kan groeien.<br><br> Het liefste doe ik frontend, maar backend haal ik ook plezier uit. </div>
   <div class="sides"><h3>sidebar-2</h3></div>
 </section>
 <?php include 'includes/footer.php';?>

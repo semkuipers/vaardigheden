@@ -1,5 +1,5 @@
 <section class="header-main">
-    <div class="logo"></div>
+    <div class="logo">Helaas heb ik geen logo..</div>
     <div class ="LDcontainer"><h1 id="lightdark">L/D</h1></div>
     <nav id="header-nav">
         <a href="index.php"><h1>Home</h1></a>
