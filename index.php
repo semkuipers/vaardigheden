@@ -15,9 +15,9 @@
 <body>
 <?php include 'includes/header.php';?>
 <section class="container">
-  <div class="sides"></div>
-  <div></div>
-  <div class="sides"></div>
+  <div class="sides">test</div>
+  <div> test</div>
+  <div class="sides">test</div>
   <div class="sides"></div>
   <div></div>
   <div class="sides"></div>
