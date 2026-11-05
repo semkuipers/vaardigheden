@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     transition: background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease;
+    font-family: Arial, Helvetica, sans-serif;
 }
 :root[data-mode='dark']{
      --sides: rgb(72, 72, 72);
@@ -27,7 +28,7 @@
   background-color: var(--body);
   font-size: 30px;
   text-align: center;
-  height: 30vw;
+  height: 70vw;
   color: var(--textbody);
 }
 .header-main, .footer-main{
@@ -45,6 +46,10 @@
 }
 .sides{
     background-color: var(--sides) !important;
+    text-align: center
+}
+.sides > h3{
+    margin-top: 3vh;
 }
 .logo{
     width: 20vw;
