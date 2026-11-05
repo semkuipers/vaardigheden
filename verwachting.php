@@ -15,12 +15,9 @@
 <body>
 <?php include 'includes/header.php';?>
 <section class="container">
-  <div class="sides"></div>
-  <div></div>
-  <div class="sides"></div>
-  <div class="sides"></div>
-  <div></div>
-  <div class="sides"></div>
+  <div class="sides"><h3>sidebar-1</h3></div>
+  <div><h1>Wat kan je van mij verwachten? <br><br> Ik ben een enthousiaste en gemotiveerde student. Ik neem mijn taken heel serieus, maar een grapje af en toe komt er bij mij wel uit. <br><br> Ik leer snel op school en thuis herhaal ik geleerde stof regelmatig.</h1></div>
+  <div class="sides"><h3>sidebar-2</h3></div>
 </section>
 <?php include 'includes/footer.php';?>
 </body>

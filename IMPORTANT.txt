@@ -1,0 +1,2 @@
+deze pagina is gebaseerd op de grootte van mijn laptop scherm, maar ik bevat wel de kennis om dit voor elke scherm grootte ideal te maken.
+Denk aan een hamburgermenu voor telefoon en verborgen sidebars voor kleinere schermen.

@@ -15,12 +15,9 @@
 <body>
 <?php include 'includes/header.php';?>
 <section class="container">
-  <div class="sides"></div>
-  <div></div>
-  <div class="sides"></div>
-  <div class="sides"></div>
-  <div></div>
-  <div class="sides"></div>
+  <div class="sides"><h3>sidebar-1</h3></div>
+  <div><h1>Tot nu toe heb ik al verschillende code talen geleerd waaronder: PHP, CSS, HTML, Javascript en SQL. <br><br>Ik heb nog geen volledige kennis over deze talen, maar dat wil ik graag veranderen in mijn stage periode.<br><br>Ik hoop daarom ook dat ik aan deze talen kan werken in mijn stage, maar ik sta altijd open voor nieuwe stof!</h1></div>
+  <div class="sides"><h3>sidebar-2</h3></div>
 </section>
 <?php include 'includes/footer.php';?>
 </body>
